@@ -1,0 +1,7 @@
+{
+  "name": "SIR Form Auto-Fill India",
+  "description": "A clean, privacy-focused web app to auto-fill SIR BLO forms using AI-powered OCR on Aadhaar and Voter ID cards. Supports English, Hindi, and Gujarati.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
